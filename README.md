@@ -1,7 +1,8 @@
-# Deep Space
-An intergalactically friendly color scheme based off of [Hybrid](https://github.com/w0ng/vim-hybrid).
+# Deep Space Boosted
+Almost entirely tyrannicaltoucan/vim-deep-space save for changes to primary colors.
+More vibrant/high-contrast. All technical credit goes to tyrannicaltoucan.
 
-![screenshot](http://i.imgur.com/Q86eL6v.png)
+![screenshot](https://i.imgur.com/ooKwsty.png)
 
 ## Installation
 **NOTE:** This color scheme requires a terminal that supports true colors!
